@@ -1,4 +1,4 @@
-package info.mukaiyachi.coursera_kotlin_for_java_developers
+package info.mukaiyachi.courserakotlinforjavadevelopers
 
 import android.os.Bundle
 import android.util.Log

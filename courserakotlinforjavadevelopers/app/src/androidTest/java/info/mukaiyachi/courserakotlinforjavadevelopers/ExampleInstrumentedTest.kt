@@ -1,7 +1,7 @@
-package info.mukaiyachi.coursera_kotlin_for_java_developers
+package info.mukaiyachi.courserakotlinforjavadevelopers
 
 import androidx.test.platform.app.InstrumentationRegistry
-import androidx.test.ext.junit.runners.AndroidJUnit4
+import androidx.test.runner.AndroidJUnit4
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("info.mukaiyachi.coursera_kotlin_for_java_developers", appContext.packageName)
+        assertEquals("info.mukaiyachi.courserakotlinforjavadevelopers", appContext.packageName)
     }
 }
